@@ -1,7 +1,11 @@
 # Iron Man Suit
 - Life-scale model of Tony Stark's suit
 - Inspired by the Iron Man series and wanted to replicate the technology
-- Future plans: integrate motors to the helmet and LED wiring to make it a little more realistic (planning to do this after aquiring the right skills)
+- Future plans: integrate motors to the helmet and LED wiring to make it a little more realistic (planning to do this after aquiring the right skills)<br><br>
+<img src="https://github.com/agentzzk/ironManCostume/blob/master/project_pictures/helmet_comparison.jpg" 
+alt="Helmet" width="320" height="420"/>
+<img src="https://github.com/agentzzk/ironManCostume/blob/master/project_pictures/helmet_blueprint_vs_real.jpg" 
+alt="Helmet" width="320" height="420"/>
 
 ##Construction
 - Printed and cut out over 200 pages of Pepakura blueprints with suit pieces and components
