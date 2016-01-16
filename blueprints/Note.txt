@@ -1,0 +1,2 @@
+Some of the left/right parts look the same in the 3D view but they're actually flipped on the paper 2d view so don't worry.
+The forearms are exactly the same but to change it so the wrist part faces the right way just turn it around to face the right way after you've put it together.
